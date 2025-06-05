@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\G2TECH\OneDrive\Desktop\files\learning\myphpprojects\larawel\workspace\laravel-12-crud\resources\views/welcome.blade.php ENDPATH**/ ?>
